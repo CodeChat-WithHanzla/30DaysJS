@@ -34,6 +34,13 @@ console.log(g);
 const h = 40;
 // h=50; Error Assignment to const variable
 
+/**
+ Feature Requests :
+ 1. Variable Types Console Log: Write a script that declares variables of different data types and logs both the value and type of each variable to the console.
+ 2. Reassignment Demo: Create a script that demonstrates the difference in behavior between let and const when it comes to reassignment.
+*/
+
+
 /*
 Notes : 
 1_ Can`t reassign a value to const variable 
